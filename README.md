@@ -2,10 +2,9 @@
 Microservice com NestJS e fila de processos com RabbitMQ
 
 ## Instalar os pacotes
-`
-` $ npm i --save @nestjs/microservices
-` $ npm i --save amqplib amqp-connection-manager
-`
+
+`$ npm i --save @nestjs/microservices`
+`$ npm i --save amqplib amqp-connection-manager`
 
 ## Criar um container Docker com RabbitMQ
 
